@@ -5,12 +5,13 @@
 
 .btn.btn-laranja {
     display: block;
-    margin: 0 2px;
+    margin: 10px;
     text-decoration: none;
     color: white;
     background-color: #ffb36b;
     transition: backgound-color 0.3s;
     border-radius: 15px;
+    box-shadow: 0 5px 1px rgba(0, 0, 0,0.5);
 }
 
 .btn.btn-laranja:hover {
